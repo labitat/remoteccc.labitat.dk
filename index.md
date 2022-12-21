@@ -21,11 +21,11 @@ Specific times will be announced later
 
 ### Day 1 - 27th December
 - Workshop: **Code of Conduct.** by MakerWoman
-- Talk: **What is Restorative Practice?** by Allover
+- Discussion: **Hackerspace.design, can we hack together?** by Allover 
 
 ### Day 2 - 28th December
 - Talk: **Individual addressable LEDs and how to animate them with WLED and ESP32**. by Hafnium
-- Discussion: **Hackerspace.design, can we hack together?** by Allover 
+- Talk: **What is Restorative Practice?** by Allover
 
 ## Useful links
 * Wiki page: [https://labitat.dk/wiki/RemoteCCC.local_2022](https://labitat.dk/wiki/RemoteCCC.local_2022) (yes, the wiki slowness is being worked on), [webarchive page](https://web.archive.org/web/20221215144658/https://labitat.dk/wiki/RemoteCCC.local_2022)
@@ -56,4 +56,4 @@ Regards,
 The "Remote Cyber Congestion Control.local @ Labitat working group" or just shorthanded as RC3.local@Labitat working group
 
 <br>
-<sup>Disclaimer in case it wasn't obvious: this is not a Chaos Communication Club event, we are simply saddened that 37C3 was postponed again and was inspired to fill the void.</sup>
+<sup>Disclaimer in case it wasn't obvious: this is not a Chaos Computer Club event, we are simply saddened that 37C3 was postponed again and was inspired to fill the void.</sup>
