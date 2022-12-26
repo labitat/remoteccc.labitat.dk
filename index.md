@@ -14,18 +14,16 @@ Price: It is totally free to attend, but we expect attendees to help out where n
 ## Plan
 Stay updated with the [iCal feed](http://orion.hafnium.me/remote.php/dav/public-calendars/7d2K5wSDKKnnfe9m?export)
 
-Specific times will be announced later
-
 ### Day 0 - 26th December 
 - **Buildup day**: We will do our best to create a nice atmosphere and will supply warm chocolate
 
 ### Day 1 - 27th December
-- Workshop: **Code of Conduct.** by MakerWoman
-- Discussion: **Hackerspace.design, can we hack together?** by Allover 
+- 16:00&emsp;Talk: **Individual addressable LEDs and how to animate them with WLED and ESP32**. by Hafnium
+- 17:00&emsp;Discussion: **Hackerspace.design, can we hack together?** by Allover 
 
 ### Day 2 - 28th December
-- Talk: **Individual addressable LEDs and how to animate them with WLED and ESP32**. by Hafnium
-- Talk: **What is Restorative Practice?** by Allover
+- 15:00&emsp;Workshop: **Code of Conduct.** by MakerWoman
+- 17:00&emsp;Talk: **What is Restorative Practice?** by Allover
 
 ## Useful links
 * Wiki page: [Labitat wiki](https://labitat.dk/wiki/RemoteCCC.local_2022) (yes, the wiki slowness is being worked on), [webarchive page](https://web.archive.org/web/20221215144658/https://labitat.dk/wiki/RemoteCCC.local_2022)
@@ -54,6 +52,3 @@ Labitat aims to be a an inclusive and welcoming space for all creature, we expec
 Regards,
 
 The "Remote Cyber Congestion Control.local @ Labitat working group" or just shorthanded as RC3.local@Labitat working group
-
-<br>
-<sup>Disclaimer in case it wasn't obvious: this is not a Chaos Computer Club event, we are simply saddened that 37C3 was postponed again and was inspired to fill the void.</sup>
