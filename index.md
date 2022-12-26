@@ -28,10 +28,10 @@ Specific times will be announced later
 - Talk: **What is Restorative Practice?** by Allover
 
 ## Useful links
-* Wiki page: [https://labitat.dk/wiki/RemoteCCC.local_2022](https://labitat.dk/wiki/RemoteCCC.local_2022) (yes, the wiki slowness is being worked on), [webarchive page](https://web.archive.org/web/20221215144658/https://labitat.dk/wiki/RemoteCCC.local_2022)
-* Planning drive (find editable version in Telegram chat): [https://cryptpad.fr/drive/#/2/drive/view/gicorHWHiLu5Y5XG6DnbSjrP37nqsrcSkhygh2h2Xjs/](https://cryptpad.fr/drive/#/2/drive/view/gicorHWHiLu5Y5XG6DnbSjrP37nqsrcSkhygh2h2Xjs/)
-* Working group Telegram channel: [https://t.me/+F3a8XWhtMCpjZmFk](https://t.me/+F3a8XWhtMCpjZmFk)
-* CCC blog post on decentralised events: [https://events.ccc.de/2022/11/28/dezentral-2022/](https://events.ccc.de/2022/11/28/dezentral-2022/)
+* Wiki page: [Labitat wiki](https://labitat.dk/wiki/RemoteCCC.local_2022) (yes, the wiki slowness is being worked on), [webarchive page](https://web.archive.org/web/20221215144658/https://labitat.dk/wiki/RemoteCCC.local_2022)
+* Planning drive (find editable version in Telegram chat): [Cryptopad](https://cryptpad.fr/drive/#/2/drive/view/gicorHWHiLu5Y5XG6DnbSjrP37nqsrcSkhygh2h2Xjs/)
+* Working group [Telegram channel](https://t.me/+F3a8XWhtMCpjZmFk)
+* CCC blog post on [decentralized end-of-the-year events](https://events.ccc.de/2022/11/28/dezentral-2022/)
 * iCal feed: [calendar.ics](http://orion.hafnium.me/remote.php/dav/public-calendars/7d2K5wSDKKnnfe9m?export)
 
 
