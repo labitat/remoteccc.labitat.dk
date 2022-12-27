@@ -24,6 +24,8 @@ Stay updated with the [iCal feed](http://orion.hafnium.me/remote.php/dav/public-
 ### Day 2 - 28th December
 - 15:00&emsp;Workshop: **Code of Conduct.** by MakerWoman
 - 17:00&emsp;Talk: **What is Restorative Practice?** by Allover
+- 20:00&emsp;Discussion: **Project MONA: Solving the administration of self-hosted infrastructure.** by Way Group
+
 
 ## Useful links
 * Wiki page: [Labitat wiki](https://labitat.dk/wiki/RemoteCCC.local_2022) (yes, the wiki slowness is being worked on), [webarchive page](https://web.archive.org/web/20221215144658/https://labitat.dk/wiki/RemoteCCC.local_2022)
